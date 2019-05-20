@@ -1,17 +1,17 @@
 .App {
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .input__add_todo {
-  text-align: center;
-  width: 100%;
-  min-height: 50px;
-  padding-left: 20px;
-  background: white;
-  font-size: 18px;
-  font-weight: 200;
-  border: none;
-  color: #3a7bd5;
-  border-radius: 0 0 5px 5px;
+    text-align: center;
+    width: 100%;
+    min-height: 50px;
+    padding-left: 20px;
+    background: white;
+    font-size: 18px;
+    font-weight: 200;
+    border: none;
+    color: #3a7bd5;
+    border-radius: 0 0 5px 5px;
 }

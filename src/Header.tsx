@@ -4,9 +4,11 @@ import {ButtonGroup} from "react-bootstrap";
 import './Header.css'
 
 function Header(props) {
-    const filteredInfo = () => { if (props.filterCounter > 0) {
-        return (<h3>Filtered Todo's:[{props.filterCounter}]</h3>)}
-    else return  (null) };
+    const filteredInfo = () => {
+        if (props.filterCounter > 0) {
+            return (<h3>Filtered Todo's:[{props.filterCounter}]</h3>)
+        } else return (null)
+    };
     return (
         <header>
             <h2 className="headerMyTodo">

@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
 }
+
 .todo_list_item {
     margin-top: 20px;
     display: flex;
@@ -18,6 +19,7 @@
     font-weight: 400;
     border-radius: 3px;
 }
+
 .todo_list_item_done {
     text-decoration: line-through;
 }
@@ -33,7 +35,6 @@
 }
 
 
-
 .container {
     margin-top: 30px;
     display: flex;
@@ -47,5 +48,5 @@
 }
 
 .fa-trash-alt {
-color: red;
+    color: red;
 }
