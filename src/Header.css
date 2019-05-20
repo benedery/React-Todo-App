@@ -1,0 +1,16 @@
+/*header{*/
+/*    color: white;*/
+/*    font-family: Roboto, sans-serif;*/
+/*}*/
+
+.buttonGroupFilter {
+    margin: 20px 0px;
+}
+
+.favoriteBtn {
+    color: white;
+}
+
+.headerMyTodo {
+    font-size: 3rem;
+}
